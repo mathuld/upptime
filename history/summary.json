@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 106,
+    "timeDay": 104,
     "timeWeek": 113,
     "timeMonth": 123,
     "timeYear": 123,
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/mvincent.xyz",
     "slug": "site-perso",
     "status": "down",
-    "uptime": "97.56%",
-    "uptimeDay": "48.03%",
-    "uptimeWeek": "92.58%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "97.32%",
+    "uptimeDay": "42.90%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 575,
     "timeDay": 593,
-    "timeWeek": 560,
+    "timeWeek": 561,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2021-12-13": 748
+      "2021-12-14": 14,
+      "2021-12-13": 808
     }
   },
   {

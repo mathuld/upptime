@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-01-14": 1141,
+      "2022-01-14": 1143,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
@@ -74,19 +74,19 @@
     "url": "$GROOMING_MANAGER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grooming-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 62,
-    "timeDay": 48,
+    "timeDay": 47,
     "timeWeek": 59,
     "timeMonth": 61,
     "timeYear": 62,
     "dailyMinutesDown": {
-      "2022-01-14": 20
+      "2022-01-14": 22
     }
   }
 ]

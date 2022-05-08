@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-05-08": 720,
+      "2022-05-08": 796,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -195,8 +195,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 67,
-    "timeDay": 97,
-    "timeWeek": 78,
+    "timeDay": 96,
+    "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 67,
     "dailyMinutesDown": {

@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-06-15": 661,
+      "2022-06-15": 721,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -234,7 +234,7 @@
     "uptimeYear": "99.98%",
     "time": 72,
     "timeDay": 109,
-    "timeWeek": 90,
+    "timeWeek": 91,
     "timeMonth": 100,
     "timeYear": 72,
     "dailyMinutesDown": {

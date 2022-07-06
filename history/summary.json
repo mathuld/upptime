@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-07-06": 276,
+      "2022-07-06": 318,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -256,7 +256,7 @@
     "time": 74,
     "timeDay": 108,
     "timeWeek": 99,
-    "timeMonth": 95,
+    "timeMonth": 94,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-03-11": 27,

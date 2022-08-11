@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-08-10": 1381,
+      "2022-08-11": 31,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -289,8 +290,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 77,
-    "timeDay": 107,
-    "timeWeek": 94,
+    "timeDay": 104,
+    "timeWeek": 93,
     "timeMonth": 94,
     "timeYear": 77,
     "dailyMinutesDown": {

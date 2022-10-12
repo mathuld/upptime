@@ -24,7 +24,7 @@
     "slug": "site-perso",
     "status": "down",
     "uptime": "6.73%",
-    "uptimeDay": "63.66%",
+    "uptimeDay": "60.77%",
     "uptimeWeek": "14.45%",
     "uptimeMonth": "4.71%",
     "uptimeYear": "6.73%",
@@ -34,7 +34,7 @@
     "timeMonth": 2166,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-10-12": 297,
+      "2022-10-12": 338,
       "2022-10-11": 227,
       "2022-10-10": 1197,
       "2022-10-09": 1440,

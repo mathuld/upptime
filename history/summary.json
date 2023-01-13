@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2023-01-13": 1081,
+      "2023-01-13": 1141,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
@@ -417,7 +417,7 @@
     "time": 104,
     "timeDay": 90,
     "timeWeek": 125,
-    "timeMonth": 327,
+    "timeMonth": 328,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-03-11": 27,

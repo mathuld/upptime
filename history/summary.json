@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2023-01-17": 1021,
+      "2023-01-17": 1082,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
@@ -416,7 +416,7 @@
     "uptimeYear": "99.99%",
     "time": 104,
     "timeDay": 85,
-    "timeWeek": 83,
+    "timeWeek": 84,
     "timeMonth": 330,
     "timeYear": 104,
     "dailyMinutesDown": {

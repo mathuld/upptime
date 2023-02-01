@@ -13,7 +13,7 @@
     "time": 98,
     "timeDay": 94,
     "timeWeek": 93,
-    "timeMonth": 111,
+    "timeMonth": 110,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2022-10-13": 20
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2023-02-01": 795,
+      "2023-02-01": 841,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 147,
+    "timeDay": 92,
+    "timeWeek": 83,
+    "timeMonth": 148,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-03-11": 27

@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 92,
+    "timeDay": 91,
     "timeWeek": 113,
     "timeMonth": 102,
     "timeYear": 99,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2023-03-16": 1141,
+      "2023-03-16": 1201,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
@@ -409,18 +409,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grooming-manager",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "76.37%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "72.20%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.92%",
     "time": 108,
     "timeDay": 74,
     "timeWeek": 78,
     "timeMonth": 87,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-03-16": 340
+      "2023-03-16": 400
     }
   }
 ]

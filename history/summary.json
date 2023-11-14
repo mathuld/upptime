@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mvincent.xyz.ico",
     "slug": "site-perso",
     "status": "down",
-    "uptime": "3.11%",
+    "uptime": "3.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-14": 361,
+      "2023-11-14": 421,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -417,8 +417,8 @@
     "uptimeYear": "99.91%",
     "time": 104,
     "timeDay": 61,
-    "timeWeek": 66,
-    "timeMonth": 71,
+    "timeWeek": 67,
+    "timeMonth": 70,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-03-16": 448

@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-13": 781,
+      "2024-03-13": 841,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -411,17 +411,17 @@
     "slug": "grooming-manager",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "36.61%",
-    "uptimeWeek": "90.94%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "99.74%",
+    "uptimeDay": "32.44%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "99.73%",
     "time": 76,
-    "timeDay": 69,
-    "timeWeek": 52,
+    "timeDay": 74,
+    "timeWeek": 51,
     "timeMonth": 63,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-03-13": 781,
+      "2024-03-13": 841,
       "2024-03-12": 132,
       "2023-03-16": 448
     }

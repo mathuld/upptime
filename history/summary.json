@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-16": 181,
+      "2024-05-16": 241,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -419,7 +419,7 @@
     "time": 103,
     "timeDay": 208,
     "timeWeek": 210,
-    "timeMonth": 222,
+    "timeMonth": 223,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-03-13": 1121,

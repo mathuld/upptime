@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 33,
+      "2024-07-28": 121,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -417,8 +417,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 134,
-    "timeDay": 319,
-    "timeWeek": 275,
+    "timeDay": 314,
+    "timeWeek": 273,
     "timeMonth": 262,
     "timeYear": 135,
     "dailyMinutesDown": {

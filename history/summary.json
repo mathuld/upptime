@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-26": 129,
+      "2024-12-26": 193,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -415,8 +415,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 181,
-    "timeDay": 149,
-    "timeWeek": 168,
+    "timeDay": 148,
+    "timeWeek": 167,
     "timeMonth": 153,
     "timeYear": 183,
     "dailyMinutesDown": {

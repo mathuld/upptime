@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-27": 481,
+      "2025-04-27": 541,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -418,7 +418,7 @@
     "time": 197,
     "timeDay": 152,
     "timeWeek": 158,
-    "timeMonth": 172,
+    "timeMonth": 171,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2024-09-27": 303

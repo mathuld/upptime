@@ -13,7 +13,7 @@
     "time": 100,
     "timeDay": 93,
     "timeWeek": 95,
-    "timeMonth": 101,
+    "timeMonth": 100,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2025-07-01": 21,
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 661,
+      "2025-07-24": 737,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,

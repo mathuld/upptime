@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mvincent.xyz.ico",
     "slug": "site-perso",
     "status": "down",
-    "uptime": "1.66%",
+    "uptime": "1.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 661,
+      "2025-08-07": 738,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,

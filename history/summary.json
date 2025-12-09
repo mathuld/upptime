@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 224,
+      "2025-12-09": 259,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -424,7 +424,7 @@
     "time": 159,
     "timeDay": 138,
     "timeWeek": 157,
-    "timeMonth": 168,
+    "timeMonth": 167,
     "timeYear": 160,
     "dailyMinutesDown": {}
   }

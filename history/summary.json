@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1202,
+      "2025-12-23": 1261,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -427,7 +427,7 @@
     "time": 160,
     "timeDay": 145,
     "timeWeek": 163,
-    "timeMonth": 159,
+    "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
   }

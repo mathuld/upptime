@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-08-02": 1002,
+      "2026-08-02": 1068,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -423,7 +423,7 @@
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 105,
-    "timeWeek": 124,
+    "timeWeek": 122,
     "timeMonth": 127,
     "timeYear": 166,
     "dailyMinutesDown": {}
